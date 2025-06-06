@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <g id="icon-Workshops" transform="translate(-100 -255.004)">
+    <g id="Ellipse_356" data-name="Ellipse 356" transform="translate(100 255.004)" fill="#f0f2f5" stroke="#2493e0" stroke-width="1">
+      <circle cx="18" cy="18" r="18" stroke="none"/>
+      <circle cx="18" cy="18" r="17.5" fill="none"/>
+    </g>
+    <path id="Path_2410" data-name="Path 2410" d="M0,0H24V24H0Z" transform="translate(106 261)" fill="none"/>
+    <path id="Path_2353" data-name="Path 2353" d="M19.6,11.29V6.25A2.232,2.232,0,0,0,17.4,4H4.2A2.232,2.232,0,0,0,2,6.25v13.5A2.232,2.232,0,0,0,4.2,22H17.4a2.232,2.232,0,0,0,2.2-2.25V14.71L24,19.188V6.813ZM10.8,8.5a2.251,2.251,0,1,1-2.2,2.25A2.232,2.232,0,0,1,10.8,8.5Zm4.4,9H6.4v-.641a2.264,2.264,0,0,1,1.342-2.081,7.492,7.492,0,0,1,6.116,0A2.264,2.264,0,0,1,15.2,16.859Z" transform="translate(105 260.004)" fill="#2493e0"/>
+  </g>
+</svg>
